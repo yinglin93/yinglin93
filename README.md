@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yinglin93
-- 🌱 A beginner in web development
+- 🌱 Web development beginner
 - ✨ Stay strong
 
 <!---
